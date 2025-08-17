@@ -93,7 +93,6 @@ Tried multiple ML algorithms:
   - `pandas`, `numpy` → data manipulation  
   - `matplotlib`, `seaborn` → visualization  
   - `scikit-learn` → ML models & evaluation  
-  - `xgboost` / `lightgbm` → boosting models  
   - `jupyter notebook` → experimentation  
 
 ---
