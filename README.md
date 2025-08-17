@@ -149,5 +149,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ## 🙏 Acknowledgements
 - Dataset provided by [Kaggle](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)  
 - Inspiration from multiple churn prediction research papers and ML case studies  
-
----
